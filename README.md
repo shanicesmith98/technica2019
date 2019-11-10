@@ -14,3 +14,7 @@ Flask (Python framework), SQLite, Capital One API, Twilio API, Adobe XD
 Developed user interface for mobile application with Adobe XD and built a web application with Flask based on the mock-ups. The web-based app will stimulate a purchase and will provide a user with a group of organizations to choose from. A user can assign one organization per banking account, and is able to view the total amount they’ve donated to their chosen organizations.
 
 Stimulating a payment was one of the challenges faced when building the website app, along with setting up the database.
+
+## Contribution
+
+I worked on the UI of the web app, and learned some Flask along the way!
