@@ -1,5 +1,3 @@
-# Technica 2019
-
 ## Project Name
 FemmeCare
 
@@ -9,7 +7,7 @@ FemmeCare is a finance app that rounds off all banking purchases to the nearest 
 
 ## It's Built With:
 
-Flask (Python framework), SQLite, Capital One API, Adobe XD
+Flask (Python framework), SQLite, Capital One API, Twilio API, Adobe XD
 
 ## Here's the whole story (Be sure to write what inspired you, what you learned, how you built, and challenges you faced):
 
