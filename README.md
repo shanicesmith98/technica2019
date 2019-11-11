@@ -18,3 +18,7 @@ Stimulating a payment was one of the challenges faced when building the website 
 ## Contribution
 
 I worked on the UI of the web app, and learned some Flask along the way!
+
+## Outcome
+
+Won 1st place in Technica 2019 Altamira Challenge
